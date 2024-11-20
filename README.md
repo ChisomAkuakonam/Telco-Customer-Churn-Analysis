@@ -47,7 +47,7 @@ A sentiment analysis of  churn reasons reveals that over 200 of the customers wh
 - Fiber Optic users have higher churn rate.
 - Churn is prevalent among customers with no dependents or are senior citizens.
 - Network reliability and product dissatisfaction are the highest reasons for churn.
-# Conclusion
+## Conclusion
 The analysis indicates that customer churn in the telco industry is a significant challenge, driven by factors such as customer services, pricing, and network issues. By targeting at-risk customers, particularly those with month-to-month contracts, senior citizens and those without dependants and partners, the company can reduce churn and improve retention. Additionally, using predictive models allows the company to proactively address customer concerns and retain high-value customers.
 To address churn, the company should:
 - Focus on improving customer service and addressing billing issues.
