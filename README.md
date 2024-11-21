@@ -36,7 +36,7 @@ We analyze the customer dataset to segment it into different categories, such as
 Using customer feedback and support tickets, we perform text analysis to identify the most common reasons customers cite for leaving:
 - Network Reliability
 - Product dissatisfaction
-- Hih prices
+- High prices
 - Service dissatisfaction
 - Lack of self-service on Website
 - Moved
@@ -54,4 +54,5 @@ To address churn, the company should:
 - Introduce more competitive pricing models, particularly for younger customers.
 - Offer loyalty programs or longer contract plans to reduce churn rates.
 ### Power BI Dashboard Overview
-- Below is the power bi dashboard of the analysed dataset:
+- Below is the power bi dashboard of the analysed dataset: ![IMG_5523](https://github.com/user-attachments/assets/b8c8e334-aff7-4613-86ee-2d677261fd55)
+
